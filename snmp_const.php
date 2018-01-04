@@ -33,10 +33,10 @@
   /**
   * Konstanty snmp protokolu
   **/
-    const HOST_IP_ADRESS     = "213.155.225.213";             #ip adresa pristroje
-    const READ_COMMUNITY     = "$?_cr_?3";                    #pristup pro cteni
-    const WRITE_COMMUNITY    = "$?_cw_?6";                    #pristup pro zapis
-    const OUTPUT_OBJECT_ID   = "0.1.3.6.1.4.1.21287.16.3.0";  #id objektu
+    const HOST_IP_ADRESS     = "";             #ip adresa pristroje
+    const READ_COMMUNITY     = "";                    #pristup pro cteni
+    const WRITE_COMMUNITY    = "";                    #pristup pro zapis
+    const OUTPUT_OBJECT_ID   = "";  #id objektu
     const OBJECT_TYPE_STRING = "s";                           #string
     const TURN_OUTPUT_ON     = "1";                           #zapnout
     const TURN_OUTPUT_OFF    = "0";                           #vypnout
